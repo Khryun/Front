@@ -1,0 +1,16 @@
+.client_check_card_inner {
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid rgba(5, 5, 5, 0.06);
+}
+
+.client_check_card_inner:last-child {
+  margin-bottom: 25px;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+
+.modal_details_services {
+  margin-bottom: 10px;
+} 

@@ -1,0 +1,52 @@
+.order_message, .order_lists, .order_form {
+  padding-right: 20px;
+}
+
+.order_message {
+  padding-top: 20px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.order_message>span {
+  padding: 6px 15px;
+  margin: 0 5px;
+  font-size: 14px;
+  width: 50px;
+  height: 32px;
+  color: white;
+  background-color: #1677ff;
+  border: 1px solid #1677ff;
+  border-radius: 6px;
+}
+
+.order_check {
+  padding-left: 20px;
+}
+
+
+:where(.css-dev-only-do-not-override-1fviqcj).ant-list .ant-list-item .ant-list-item-meta .ant-list-item-meta-content {
+  text-align: left;
+}
+
+.enroll_list_header_buttons {
+  text-align: right;
+}
+
+.button--black {
+  background-color: black;
+  color: white;
+}
+
+.button--white {
+  background-color: white;
+  border-color: black;
+  color: black;
+  font-weight: 800;
+}
+
+.button_text--center span {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  line-height: 1;
+}

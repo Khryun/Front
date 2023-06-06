@@ -1,0 +1,16 @@
+.ant-list-header {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.enroll_title {
+  margin-bottom: 40px;
+}
+
+.enroll_row {
+  justify-content: center;
+}
+
+.enroll_buttons {
+  padding: 0 20px;
+}

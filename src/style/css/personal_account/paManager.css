@@ -1,0 +1,18 @@
+.personal_account_manager_info {
+  padding-right: 20px;
+}
+
+.personal_account_manager_control_buttons {
+  margin-top: 20px;
+}
+
+/* .personal_account_client_form, */
+.personal_account_order_form {
+  padding-right: 20px;
+}
+
+/* .personal_account_client_result, */
+.personal_account_order_result,
+.personal_account_manager_forms {
+  padding-left: 20px;
+}

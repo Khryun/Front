@@ -1,0 +1,73 @@
+/* ------------- SERVICES AND PRICE ------------- */
+.services_and_price {
+  margin-bottom: 50px;
+}
+
+.services_and_price_title {
+  margin-bottom: 40px;
+}
+
+.services_and_price_card {
+  margin-right: 20px;
+  margin-bottom: 30px;
+}
+
+.services_and_price_card:last-child {
+  margin-bottom: 0;
+}
+
+.services_and_price_card_name {
+  min-height: 60px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+
+/* ------------- ABOUT US ------------- */
+.about_us {
+  margin-bottom: 50px;
+}
+
+.about_us_header {
+  margin-bottom: 30px;
+}
+
+.about_us_subtitle {
+  margin-bottom: 20px;
+}
+
+.about_us_text {
+  padding: 0 350px;
+  line-height: 1.6;
+}
+
+
+/* ------------- CONTACTS ------------- */
+.contacts_header {
+  margin-bottom: 30px;
+}
+
+.contacts_info {
+  max-width: 770px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  margin: 0 auto;
+}
+
+.contacts_info_address {
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+
+.contacts_info_telephone {
+  display: block;
+  color: black;
+  text-decoration: none;
+  margin-bottom: 6px;
+}
+
+.contacts_info_text {
+  font-size: 12px;
+}

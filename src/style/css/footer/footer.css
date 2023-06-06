@@ -1,0 +1,9 @@
+.footer_logo {
+  max-width: 150px;
+  min-width: 100px;
+  margin-right: 40px;
+}
+
+.footer_address {
+  text-align: left;
+}

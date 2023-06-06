@@ -1,0 +1,11 @@
+.cardbase_info_inner {
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid rgba(5, 5, 5, 0.06);
+}
+
+.cardbase_info_inner:last-of-type {
+  margin-bottom: 15px;
+  padding-bottom: 0;
+  border-bottom: none;
+}

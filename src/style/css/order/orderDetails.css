@@ -1,0 +1,52 @@
+.order_check_details_message {
+  text-align: center;
+}
+
+.order_check_details_client,
+.order_check_details_establishment,
+.order_check_details_specialist {
+  padding-bottom: 12px;
+}
+
+.order_check_details_client,
+.order_check_details_establishment,
+.order_check_details_specialist,
+.order_check_details_service,
+.order_check_details_datetime {
+  border-bottom: 1px solid rgba(5, 5, 5, 0.06);
+}
+
+.order_check_details_establishment,
+.order_check_details_specialist {
+  margin-top: 12px;
+}
+
+.order_check_details_service {
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.45);
+}
+
+.order_check_details_service,
+.order_check_details_datetime {
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+
+.order_check_details_service_info {
+  padding-right: 20px;
+  max-width: 70%;
+}
+
+.order_check_details_totalcount {
+  margin-top: 10px;
+}
+
+.order_check_details_buttons_step {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.order_check_details_buttons {
+  margin-top: 20px;
+  text-align: center;
+}

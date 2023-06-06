@@ -1,0 +1,9 @@
+.enroll_list_specialists_header_title {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+
+.enroll_list_specialists_item_meta_button_delete {
+  display: none;
+}

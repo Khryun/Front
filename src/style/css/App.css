@@ -1,0 +1,40 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  margin: 0 150px;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.header {
+  margin-top: 40px;
+}
+
+.main {
+  margin-top: 100px;
+  margin-bottom: auto;
+}
+
+.main_wrapper {
+  margin-bottom: 50px;
+}
+
+.footer {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+
+/* ------------ GENERAL ------------ */
+.title--border {
+  margin-bottom: 40px;
+  padding: 10px;
+  color: rgba(0, 0, 0, 0.88);
+  line-height: 1.5714285714285714;
+  border: 1px solid rgb(217, 217, 217);
+  border-radius: 8px;
+}
+
+.ant-form-item-explain-error:last-child {
+  margin-bottom: 10px;
+}

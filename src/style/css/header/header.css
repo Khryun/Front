@@ -1,0 +1,21 @@
+.header_logo {
+  max-width: 200px;
+  min-width: 100px;
+  margin-right: 20px;
+}
+
+.navigation {
+  margin: auto 0;
+}
+
+:where(.css-dev-only-do-not-override-1fviqcj).ant-menu-horizontal {
+  border-bottom: 0;
+  line-height: 28px;
+}
+
+:where(.css-dev-only-do-not-override-1fviqcj).ant-menu-light.ant-menu-horizontal >.ant-menu-item-selected::after, 
+:where(.css-dev-only-do-not-override-1fviqcj).ant-menu-light>.ant-menu.ant-menu-horizontal >.ant-menu-item-selected::after, 
+:where(.css-dev-only-do-not-override-1fviqcj).ant-menu-light.ant-menu-horizontal >.ant-menu-submenu-selected::after, 
+:where(.css-dev-only-do-not-override-1fviqcj).ant-menu-light>.ant-menu.ant-menu-horizontal >.ant-menu-submenu-selected::after {
+  border-width: 3px;
+}

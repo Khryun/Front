@@ -1,0 +1,17 @@
+.personal_account_control_info {
+  padding-right: 20px;
+}
+
+.personal_account_manager_control_buttons {
+  margin-top: 20px;
+}
+
+.personal_account_control_forms {
+  padding-left: 20px;
+}
+
+:where(.css-dev-only-do-not-override-1fviqcj).modal_update_client .ant-modal-confirm-body,
+:where(.css-dev-only-do-not-override-1fviqcj).modal_update_employee .ant-modal-confirm-body,
+:where(.css-dev-only-do-not-override-1fviqcj).modal_update_schedule .ant-modal-confirm-body {
+  display: block;
+}

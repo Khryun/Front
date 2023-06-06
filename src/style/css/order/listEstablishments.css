@@ -1,0 +1,12 @@
+.enroll_list_establishments_header_title {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.enroll_list_establishments_item_meta_info_address {
+  color: black;
+}
+
+.enroll_list_establishments_item_meta_button_delete {
+  display: none;
+}

@@ -1,0 +1,45 @@
+.notfound_text {
+  margin-bottom: 30px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.notfound_image {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.notfound_image_404 {
+  max-width: 350px;
+  min-width: 100px;
+}
+
+.notfound_links {
+  text-align: center;
+}
+
+.notfound_links_text {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+
+.notfound_links_home::after {
+  content: "";
+  display: block;
+  height: 1px;
+  margin-top: 2px;
+  width: 0;
+  border-bottom: 1px solid #1677ff;
+  transition: width 0.5s ease;
+}
+
+.notfound_links_home:hover::after {
+  width: 100%;
+}
